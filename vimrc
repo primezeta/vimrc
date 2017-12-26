@@ -7,3 +7,4 @@ inoremap { {<CR><CR>}<C-o>k<C-o>S
 :set cindent
 :set wildmode=longest,list,full
 :set wildmenu
+:syntax on
